@@ -1,4 +1,6 @@
 #! /usr/bin/python
+import sys
+
 
 f = open("birds.txt", "r")
 data = f.read()
